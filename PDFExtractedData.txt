@@ -1,0 +1,197 @@
+TICKET# CLIENT NAME PRODUCT NAME TYPE PRIORITY
+07262022-0-764 Currency@25 RestroZap Buy Now High
+07262022-0-763 Currency@24 RestroZap Buy Now High
+07262022-0-762 Currency@23 RestroZap Buy Now High
+07252022-0-761 Currency@22 RestroZap Buy Now High
+07252022-0-760 Currency@21 RestroZap Buy Now High
+07252022-0-759 Currency@20 RestroZap Buy Now High
+07252022-0-758 Currency@19 RestroZap Buy Now High
+07252022-0-757 Currency@18 RestroZap Buy Now High
+07252022-0-756 Currency@17 RestroZap Buy Now High
+07252022-0-755 Currency@16 RestroZap Buy Now High
+02222022-0-10 Anil Kumar RestroZap Callback Request High
+02222022-0-3 idlidosa RestroZap Feedback High
+02222022-0-4 hemakumar RestroZap Callback Request High
+02222022-0-5 Texas Roadhouse RestroZap Buy Now High
+02222022-0-6 Nirosha Vemula RestroZap Callback Request High
+02222022-0-7 Subway RestroZap Sales High
+02222022-0-8 Lee's Sandwiches RestroZap Sales High
+02222022-0-9 Pizza hut RestroZap Request a Demo High
+02222022-2-2 Saltgrass Steak House RestroZap Free to Paid High
+02232022-0-12 Good Times Burgers & FrozenRe CuststroarZdap Buy Now High
+07262022-0-764 Currency@25 RestroZap Buy Now High
+07262022-0-763 Currency@24 RestroZap Buy Now High
+07262022-0-762 Currency@23 RestroZap Buy Now High
+07252022-0-761 Currency@22 RestroZap Buy Now High
+07252022-0-760 Currency@21 RestroZap Buy Now High
+07252022-0-759 Currency@20 RestroZap Buy Now High
+07252022-0-758 Currency@19 RestroZap Buy Now High
+07252022-0-757 Currency@18 RestroZap Buy Now High
+07252022-0-756 Currency@17 RestroZap Buy Now High
+07252022-0-755 Currency@16 RestroZap Buy Now High
+02222022-0-10 Anil Kumar RestroZap Callback Request High
+02222022-0-3 idlidosa RestroZap Feedback High
+02222022-0-4 hemakumar RestroZap Callback Request High
+02222022-0-5 Texas Roadhouse RestroZap Buy Now High
+02222022-0-6 Nirosha Vemula RestroZap Callback Request High
+02222022-0-7 Subway RestroZap Sales High
+02222022-0-8 Lee's Sandwiches RestroZap Sales High
+02222022-0-9 Pizza hut RestroZap Request a Demo High
+02222022-2-2 Saltgrass Steak House RestroZap Free to Paid High
+02232022-0-12 Good Times Burgers & FrozenRe CuststroarZdap Buy Now High
+07262022-0-764 Currency@25 RestroZap Buy Now High
+07262022-0-763 Currency@24 RestroZap Buy Now High
+07262022-0-762 Currency@23 RestroZap Buy Now High
+07252022-0-761 Currency@22 RestroZap Buy Now High
+07252022-0-760 Currency@21 RestroZap Buy Now High
+07252022-0-759 Currency@20 RestroZap Buy Now High
+07252022-0-758 Currency@19 RestroZap Buy Now High07252022-0-757 Currency@18 RestroZap Buy Now High
+07252022-0-756 Currency@17 RestroZap Buy Now High
+07252022-0-755 Currency@16 RestroZap Buy Now High
+02222022-0-10 Anil Kumar RestroZap Callback Request High
+02222022-0-3 idlidosa RestroZap Feedback High
+02222022-0-4 hemakumar RestroZap Callback Request High
+02222022-0-5 Texas Roadhouse RestroZap Buy Now High
+02222022-0-6 Nirosha Vemula RestroZap Callback Request High
+02222022-0-7 Subway RestroZap Sales High
+02222022-0-8 Lee's Sandwiches RestroZap Sales High
+02222022-0-9 Pizza hut RestroZap Request a Demo High
+02222022-2-2 Saltgrass Steak House RestroZap Free to Paid High
+02232022-0-12 Good Times Burgers & FrozenRe CuststroarZdap Buy Now High
+07262022-0-764 Currency@25 RestroZap Buy Now High
+07262022-0-763 Currency@24 RestroZap Buy Now High
+07262022-0-762 Currency@23 RestroZap Buy Now High
+07252022-0-761 Currency@22 RestroZap Buy Now High
+07252022-0-760 Currency@21 RestroZap Buy Now High
+07252022-0-759 Currency@20 RestroZap Buy Now High
+07252022-0-758 Currency@19 RestroZap Buy Now High
+07252022-0-757 Currency@18 RestroZap Buy Now High
+07252022-0-756 Currency@17 RestroZap Buy Now High
+07252022-0-755 Currency@16 RestroZap Buy Now High
+02222022-0-10 Anil Kumar RestroZap Callback Request High
+02222022-0-3 idlidosa RestroZap Feedback High
+02222022-0-4 hemakumar RestroZap Callback Request High
+02222022-0-5 Texas Roadhouse RestroZap Buy Now High
+02222022-0-6 Nirosha Vemula RestroZap Callback Request High
+02222022-0-7 Subway RestroZap Sales High
+02222022-0-8 Lee's Sandwiches RestroZap Sales High
+02222022-0-9 Pizza hut RestroZap Request a Demo High
+02222022-2-2 Saltgrass Steak House RestroZap Free to Paid High
+02232022-0-12 Good Times Burgers & FrozenRe CuststroarZdap Buy Now High
+07262022-0-764 Currency@25 RestroZap Buy Now High
+07262022-0-763 Currency@24 RestroZap Buy Now High
+07262022-0-762 Currency@23 RestroZap Buy Now High
+07252022-0-761 Currency@22 RestroZap Buy Now High
+07252022-0-760 Currency@21 RestroZap Buy Now High
+07252022-0-759 Currency@20 RestroZap Buy Now High
+07252022-0-758 Currency@19 RestroZap Buy Now High
+07252022-0-757 Currency@18 RestroZap Buy Now High
+07252022-0-756 Currency@17 RestroZap Buy Now High
+07252022-0-755 Currency@16 RestroZap Buy Now High
+02222022-0-10 Anil Kumar RestroZap Callback Request High
+02222022-0-3 idlidosa RestroZap Feedback High
+02222022-0-4 hemakumar RestroZap Callback Request High
+02222022-0-5 Texas Roadhouse RestroZap Buy Now High
+02222022-0-6 Nirosha Vemula RestroZap Callback Request High02222022-0-7 Subway RestroZap Sales High
+02222022-0-8 Lee's Sandwiches RestroZap Sales High
+02222022-0-9 Pizza hut RestroZap Request a Demo High
+02222022-2-2 Saltgrass Steak House RestroZap Free to Paid High
+02232022-0-12 Good Times Burgers & FrozenRe CuststroarZdap Buy Now HighREPORTED ON LAST UPDATED STATUS ACTIONS
+Jul 26, 2022, 11:25:15 AM Jul 26, 2022, 11:25:15 AM New
+Jul 26, 2022, 12:17:28 AM Jul 26, 2022, 12:17:28 AM New
+Jul 26, 2022, 12:11:00 AM Jul 26, 2022, 12:11:00 AM New
+Jul 25, 2022, 11:54:54 PM Jul 25, 2022, 11:54:54 PM New
+Jul 25, 2022, 11:34:48 PM Jul 25, 2022, 11:34:48 PM New
+Jul 25, 2022, 11:16:28 PM Jul 25, 2022, 11:16:28 PM New
+Jul 25, 2022, 10:48:02 PM Jul 25, 2022, 10:48:02 PM New
+Jul 25, 2022, 10:38:45 PM Jul 25, 2022, 10:38:45 PM New
+Jul 25, 2022, 10:30:19 PM Jul 25, 2022, 10:30:19 PM New
+Jul 25, 2022, 10:23:40 PM Jul 25, 2022, 10:23:40 PM New
+Feb 22, 2022, 7:45:45 PM Feb 22, 2022, 7:45:45 PM New
+Feb 22, 2022, 7:15:25 PM Feb 22, 2022, 7:15:25 PM New
+Feb 22, 2022, 7:20:14 PM Feb 22, 2022, 7:20:14 PM New
+Feb 22, 2022, 7:20:40 PM Feb 22, 2022, 7:20:40 PM New
+Feb 22, 2022, 7:25:33 PM Feb 22, 2022, 7:25:33 PM New
+Feb 22, 2022, 7:36:43 PM Feb 22, 2022, 7:36:43 PM New
+Feb 22, 2022, 7:38:17 PM Feb 22, 2022, 7:38:17 PM New
+Feb 22, 2022, 7:46:13 PM Feb 22, 2022, 7:46:13 PM New
+Feb 22, 2022, 6:51:11 PM Feb 22, 2022, 6:54:01 PM Active
+Feb 23, 2022, 7:11:37 PM Feb 23, 2022, 7:11:37 PM New
+Jul 26, 2022, 11:25:15 AM Jul 26, 2022, 11:25:15 AM New
+Jul 26, 2022, 12:17:28 AM Jul 26, 2022, 12:17:28 AM New
+Jul 26, 2022, 12:11:00 AM Jul 26, 2022, 12:11:00 AM New
+Jul 25, 2022, 11:54:54 PM Jul 25, 2022, 11:54:54 PM New
+Jul 25, 2022, 11:34:48 PM Jul 25, 2022, 11:34:48 PM New
+Jul 25, 2022, 11:16:28 PM Jul 25, 2022, 11:16:28 PM New
+Jul 25, 2022, 10:48:02 PM Jul 25, 2022, 10:48:02 PM New
+Jul 25, 2022, 10:38:45 PM Jul 25, 2022, 10:38:45 PM New
+Jul 25, 2022, 10:30:19 PM Jul 25, 2022, 10:30:19 PM New
+Jul 25, 2022, 10:23:40 PM Jul 25, 2022, 10:23:40 PM New
+Feb 22, 2022, 7:45:45 PM Feb 22, 2022, 7:45:45 PM New
+Feb 22, 2022, 7:15:25 PM Feb 22, 2022, 7:15:25 PM New
+Feb 22, 2022, 7:20:14 PM Feb 22, 2022, 7:20:14 PM New
+Feb 22, 2022, 7:20:40 PM Feb 22, 2022, 7:20:40 PM New
+Feb 22, 2022, 7:25:33 PM Feb 22, 2022, 7:25:33 PM New
+Feb 22, 2022, 7:36:43 PM Feb 22, 2022, 7:36:43 PM New
+Feb 22, 2022, 7:38:17 PM Feb 22, 2022, 7:38:17 PM New
+Feb 22, 2022, 7:46:13 PM Feb 22, 2022, 7:46:13 PM New
+Feb 22, 2022, 6:51:11 PM Feb 22, 2022, 6:54:01 PM Active
+Feb 23, 2022, 7:11:37 PM Feb 23, 2022, 7:11:37 PM New
+Jul 26, 2022, 11:25:15 AM Jul 26, 2022, 11:25:15 AM New
+Jul 26, 2022, 12:17:28 AM Jul 26, 2022, 12:17:28 AM New
+Jul 26, 2022, 12:11:00 AM Jul 26, 2022, 12:11:00 AM New
+Jul 25, 2022, 11:54:54 PM Jul 25, 2022, 11:54:54 PM New
+Jul 25, 2022, 11:34:48 PM Jul 25, 2022, 11:34:48 PM New
+Jul 25, 2022, 11:16:28 PM Jul 25, 2022, 11:16:28 PM New
+Jul 25, 2022, 10:48:02 PM Jul 25, 2022, 10:48:02 PM NewJul 25, 2022, 10:38:45 PM Jul 25, 2022, 10:38:45 PM New
+Jul 25, 2022, 10:30:19 PM Jul 25, 2022, 10:30:19 PM New
+Jul 25, 2022, 10:23:40 PM Jul 25, 2022, 10:23:40 PM New
+Feb 22, 2022, 7:45:45 PM Feb 22, 2022, 7:45:45 PM New
+Feb 22, 2022, 7:15:25 PM Feb 22, 2022, 7:15:25 PM New
+Feb 22, 2022, 7:20:14 PM Feb 22, 2022, 7:20:14 PM New
+Feb 22, 2022, 7:20:40 PM Feb 22, 2022, 7:20:40 PM New
+Feb 22, 2022, 7:25:33 PM Feb 22, 2022, 7:25:33 PM New
+Feb 22, 2022, 7:36:43 PM Feb 22, 2022, 7:36:43 PM New
+Feb 22, 2022, 7:38:17 PM Feb 22, 2022, 7:38:17 PM New
+Feb 22, 2022, 7:46:13 PM Feb 22, 2022, 7:46:13 PM New
+Feb 22, 2022, 6:51:11 PM Feb 22, 2022, 6:54:01 PM Active
+Feb 23, 2022, 7:11:37 PM Feb 23, 2022, 7:11:37 PM New
+Jul 26, 2022, 11:25:15 AM Jul 26, 2022, 11:25:15 AM New
+Jul 26, 2022, 12:17:28 AM Jul 26, 2022, 12:17:28 AM New
+Jul 26, 2022, 12:11:00 AM Jul 26, 2022, 12:11:00 AM New
+Jul 25, 2022, 11:54:54 PM Jul 25, 2022, 11:54:54 PM New
+Jul 25, 2022, 11:34:48 PM Jul 25, 2022, 11:34:48 PM New
+Jul 25, 2022, 11:16:28 PM Jul 25, 2022, 11:16:28 PM New
+Jul 25, 2022, 10:48:02 PM Jul 25, 2022, 10:48:02 PM New
+Jul 25, 2022, 10:38:45 PM Jul 25, 2022, 10:38:45 PM New
+Jul 25, 2022, 10:30:19 PM Jul 25, 2022, 10:30:19 PM New
+Jul 25, 2022, 10:23:40 PM Jul 25, 2022, 10:23:40 PM New
+Feb 22, 2022, 7:45:45 PM Feb 22, 2022, 7:45:45 PM New
+Feb 22, 2022, 7:15:25 PM Feb 22, 2022, 7:15:25 PM New
+Feb 22, 2022, 7:20:14 PM Feb 22, 2022, 7:20:14 PM New
+Feb 22, 2022, 7:20:40 PM Feb 22, 2022, 7:20:40 PM New
+Feb 22, 2022, 7:25:33 PM Feb 22, 2022, 7:25:33 PM New
+Feb 22, 2022, 7:36:43 PM Feb 22, 2022, 7:36:43 PM New
+Feb 22, 2022, 7:38:17 PM Feb 22, 2022, 7:38:17 PM New
+Feb 22, 2022, 7:46:13 PM Feb 22, 2022, 7:46:13 PM New
+Feb 22, 2022, 6:51:11 PM Feb 22, 2022, 6:54:01 PM Active
+Feb 23, 2022, 7:11:37 PM Feb 23, 2022, 7:11:37 PM New
+Jul 26, 2022, 11:25:15 AM Jul 26, 2022, 11:25:15 AM New
+Jul 26, 2022, 12:17:28 AM Jul 26, 2022, 12:17:28 AM New
+Jul 26, 2022, 12:11:00 AM Jul 26, 2022, 12:11:00 AM New
+Jul 25, 2022, 11:54:54 PM Jul 25, 2022, 11:54:54 PM New
+Jul 25, 2022, 11:34:48 PM Jul 25, 2022, 11:34:48 PM New
+Jul 25, 2022, 11:16:28 PM Jul 25, 2022, 11:16:28 PM New
+Jul 25, 2022, 10:48:02 PM Jul 25, 2022, 10:48:02 PM New
+Jul 25, 2022, 10:38:45 PM Jul 25, 2022, 10:38:45 PM New
+Jul 25, 2022, 10:30:19 PM Jul 25, 2022, 10:30:19 PM New
+Jul 25, 2022, 10:23:40 PM Jul 25, 2022, 10:23:40 PM New
+Feb 22, 2022, 7:45:45 PM Feb 22, 2022, 7:45:45 PM New
+Feb 22, 2022, 7:15:25 PM Feb 22, 2022, 7:15:25 PM New
+Feb 22, 2022, 7:20:14 PM Feb 22, 2022, 7:20:14 PM New
+Feb 22, 2022, 7:20:40 PM Feb 22, 2022, 7:20:40 PM New
+Feb 22, 2022, 7:25:33 PM Feb 22, 2022, 7:25:33 PM NewFeb 22, 2022, 7:36:43 PM Feb 22, 2022, 7:36:43 PM New
+Feb 22, 2022, 7:38:17 PM Feb 22, 2022, 7:38:17 PM New
+Feb 22, 2022, 7:46:13 PM Feb 22, 2022, 7:46:13 PM New
+Feb 22, 2022, 6:51:11 PM Feb 22, 2022, 6:54:01 PM Active
+Feb 23, 2022, 7:11:37 PM Feb 23, 2022, 7:11:37 PM New

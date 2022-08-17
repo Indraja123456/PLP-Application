@@ -1,0 +1,806 @@
+(eaDocXl
+document excellence (c) eaDocX Ltd 2012
+A Document which shows how eaDocX'* can be used with
+Enterprise Architect
+ocument: Sample #11
+fi e name
+Change mar date Sample 1 - Project Overview -
+FINAL.docx
+29/04/2012
+Reposito
+Z:\2 - Getlost Project Example and Documents\Get Lost Project on
+30/04/2012
+Catego uthor
+eaDocX Sales Example.eap
+Shows the main formatting options, including new C:\Users\lan\Documents\7 -
+FINAL V3.O features like H&V tables and Word Table styles eaDocX Training
+11 Comment [Ill: This is the only
+text in this document which is
+added manually.
+Comment [121: This shows the
+start of an eaDocX Section'. It is
+not visible in the final document,
+as it's text styte is 'invisible'. [t can
+be see here because we have
+chosen the Word option to 'show
+invisible text'.
+Comment [131: This section is a
+'Document Information' one. [t is
+refreshed each time the document
+is generated, so it is always up-to-
+date
+Some of the information is created
+as the document is generated,
+some is stored in eaDocX, and
+some comes from the Word
+document's properties.
+As with all eaDocX sections, what
+appears here is configurable.
+Comment [141: This is the end
+of the eaDocX section.
+Any text which you add after this
+point will NOT be overwritten
+when the document is re-
+generated, so you can mix EA and
+manual content.(eaDocXl
+document excellence
+21 (c) eaDocX Ltd 2012 Comment [151: We've decided
+not to have any manual content in
+this document, so we're straight
+on to another eaDocX Section.(eaDocXl
+document excellence
+1 Project background (c) eaDocX Ltd 2012
+This section has some general information about the project - why we're doing it, who our main
+competitors witl be, and the main people who are involved plus their rotes.
+Contains:
+• Intro text
+• Organisation
+• Competitor
+31 Comment [161: We have
+chosen to start this section with a
+Heading Level 1. This is
+configurable. There is a page
+break before this heading, as
+that's what the Heading 1 Word
+style says.
+eaDocX uses the Word style to
+determine the detailed formatting
+of most of the document: the
+colour of text, font, size,
+positioning etc.
+So, the generated text can look
+exactly the same as the manually
+created content: this makes the
+document look professional, and is
+easier to read.
+Comment [171: This text has
+come from our EA model.
+We keep even textual content tike
+this in EA, because we've found
+that it's reused in many
+documents, so we have just lots of
+background information, which
+gets used in many documents.(eaDocXl
+document excellence
+1.1 [Introduction]
+is a new way to organize and book travel.
+GetLost 'M (c) eaDocX Ltd 2012
+Today, there are hundreds of websites offering to book just flights, or just trains, or just cars. A few
+witl let the customer book a flight AND a hotel. But most customers don't want to travel from an
+airport to another airport - they want to travel from home to their destination - an office, or a beach.
+GetLost 'M allows them to do this. They tell the system where they want to start, where they want to
+finish, and some options. GetLost 'M will then give them options, based on the customers chosen
+criteria.
+For example:
+• Starting at Bath, UK
+• Ending at a hotel near the Arc de Triomphe, [Parisl
+• Staying - 2 nights in a 3* hotel
+Get Lost might produce:
+Option 1: Cheapest:
+1. Car from home to London, Heathrow (estimate GBP 34.00)
+2. Park in Business Parking - GBP 45.00
+3. Flight LHG-CDG- 234.00
+4. Metro CDG -Paris-GBP 12.00
+5. Hotel Le France, 1 person, 2 nights, half board GBP 240.001
+Option 2: Greenest Comment [181: Another page
+break here, because the Word
+Document Heading 2 Styte also is
+configured for •page Break before'.
+Comment [191: Bullet points
+within text can use their own
+Word Styte. In this case, we've
+chosen one which makes the text
+quite compact, and indented. All
+this is configured in Word.
+Comment [110]: Numbered
+lists can atso use their own Word
+1.
+2.
+3.
+4.
+5.
+6. Bus from (home) to Bath railway station *
+Train to London Paddington
+Tube to St. Pancras
+Train to Gare du Nord (Paris)
+Metro to hotel
+Hotel Le France, 1 person, 2 nights, hatf board GBP 240.00
+- not sure yet how we will express the 'green-ness of each part of the journey: either tonnes of
+C02, or perhaps a simpler 'starring' system: 5* very green, 1* = not.
+Option 3: Fastest
+...etc
+For each leg of the journey, the customer will be able to ask for other alternatives e.g. Taxi from
+home to the train station.
+Business Case
+Like other travel aggregators, GetLost will make a margin on each journey booked, which will be
+enhanced by doing deals with specific providers who will give us discounts, which we may pass on
+part of to the customer.
+GetLost 'M is made possible by two recent innovations:
+41(eaDocXl
+document excellence (c) eaDocX Ltd 2012
+1 - A unique, patented piece of software TravelOptimizer'M - that compares modes of transport to
+produce the best customer solution. It's a bit tike the travel directions software that motoring
+companies use, except multi-modal.
+"Best" can be based on
+• Cheapest
+• Fastest
+Lowest carbon-footprint
+This is not where we witl make the money (quotes are free) — the profit comes from the commissions
+on booking hotets etc, but the multi-model quote is what we believe will make people keep using
+the site, especially the carbon footprint feature. TravelOptimizer keeps a database of maps, travel
+routes, possible costs (not quotes, just general rates for typical journeys) from many TBML suppliers.
+2. A new XML.based international standard for exchange of travel information & quotes and
+payment of fees: TBML, managed by TBMt.Co. This makes integrating new travel service suppliers a
+simple, non-lT process, removing the need for aggregators like SABRE or AMADEUS. TBML requires
+the following steps:
+"Establish" where the parties exchange information about fees etc. Fees are set by the TBML
+standards committee: only a supplier that wants to charge fees outside of that requires
+manual intervention
+"Quote" — info from requester to supplier, with details of what's needed. Fee payable by
+requester. Details of travel returned to requester.
+"Book" — as Quote, but with a booking ref, and larger fees payable.
+"Settle" — where suppliers & requestors get billed & paid by the TBML organisation.
+51(eaDocXl
+document excellence
+1.2 Organisation (c) eaDocX Ltd 2012
+This section contains the current organisation of the new GetLost company. We will attach
+Requirements, Issues etc to these individuals, rather than to their project rotes, in order to track
+individual involvement.
+uc GetLost Steerlng Group
+Martin Jones CEO LOS'V
+Steering Group Comment [Ill]: This is the
+first diagram which we have
+added.
+We can choose to leave-out
+diagrams which are not suitable
+for our document in several ways:
+- diagrams which should never be
+printed in any document (because
+they are just scratch diagrams) can
+be flagged this way in EA
+- For alt other diagrams, we can
+choose to exclude any diagram
+individually from a specific
+document.
+We have kept the EA frame
+around this one, but that's an
+option you can change in EA. Clare smart- COO
+Beth Robinson -
+Ops Manager Mark Ellsworth -
+Cho
+Jilly smart
+Product Manager Frank Bey
+Marc Leclerc -
+Programme
+Manager
+Figure 1 : GetLost Steering Group(eaDocXl
+document excellence
+1.2.1 Steering group
+ACOO
+ACOI
+AC02
+ACII
+AC12
+AC05
+AC06 Indivi ua
+Martin Jones - CEO
+Clare Smart - coo
+Frank Bey - CTO
+Mark Ellsworth - CMO
+Jilly Smart - Product Manager
+Beth Robinson - Ops Manager
+Marc Leclerc - Programme
+Manager
+71 Descnpt•on
+CEO, GetLost Ltd.
+Responsible to the parent
+company for the success
+and profitability of Getlost.
+Involvement in the day-to-
+day running of the project
+is as head of the Steering
+Group for GetLost
+development.
+This change was made
+\odayl
+Chief Operating Officer.
+When GetLost is
+operational flare will be
+responsible to the board
+for all aspects of the day-
+to-day operation of the
+company.
+Chief Technology Officer
+Chief Marketing Officer
+Ultimately responsible to
+the board for the GetLost
+product and customer
+experience, in reality will
+delegate most decisions to
+Product Manager
+Responsible for the
+detailed design of the
+product and customer
+experience. (c) eaDocX Ltd 2012
+Reqts
+Quotes,
+Providers,
+Options
+Reporting,
+Non-TBML suppliers,
+Role ofTBML,
+Ticketless suppliers,
+Allowed Payment
+methods,
+Booking,
+Breaking-up Quotes,
+Cancelling bookings,
+Convert a quote into a
+booking,
+Customer experience,
+Customer preferences,
+Enquiry,
+Non-TBML suppliers,
+Pre-stored locations,
+Quote,
+Retrieve previous
+quotes,
+Sign-up,
+Storing quotes,
+Ticketless suppliers,
+Quotes,
+providersl
+Providers,
+Options,
+Quotes,
+Payments Comment [112]: This is a list of
+etements,
+which we have chosen to be
+printed in a list.
+Each element gets a row in the
+tabte, and we can choose which
+attributes appear in which
+columns, and the headings of
+those cotumns.
+Comment [113]: This row is
+highlighted, because this
+document is using eaDocX Change
+Marking.
+This examines the •tast updated'
+date/time of each element,
+wherever it is printed, and
+highlights those which have been
+changed since a specified date.
+This makes it much easier for
+readers to go straight to the
+newest part of a document.
+[t's not as detailed as Word
+change-marking - the reader can't
+see exactly which text was
+changed - but alt the information
+does come from the EA model, so
+may have changes made by many
+people.
+Comment [114]: This is a
+cross-reference within the EA
+model, where one element
+references another one.
+eaDocX has made this into a
+hyperlinked cross-reference within
+the document.
+Comment [115]: The data in
+this column comes not from
+attributes of the Actor, but from
+another element which is related
+to the Actor - in this case, a
+related Requirement.
+This makes those EA relationships
+visibte in the document, because
+they are really important.
+If the target of the relationship
+(the Requirements, in this case)
+are also printed in this document,
+then this becomes a hyperlink.(eaDocXl
+document excellence
+1.2.2 Other Team Members
+AC03
+AC04
+AC07
+ACIO
+AC09 In ivtdua
+Jenn Thorson - CLO
+Pierre Carandini - CFO Descn tion
+Chief Legal Officer
+Chief Financial Officer (c) eaDocX Ltd 2012
+Payments,
+Reporting,
+Allowed Payment
+methods
+Maud Sharpe - Business Analyst Responsible for production
+of: Initial requirements
+set
+Use Cases
+Sketches of the
+user interface
+Nick Adams - Project Manager Comment [116]: The row
+shading in this table is another
+option. We have configured all
+tabtes to use a particular Word
+Table Style (called
+eoDocXTab/eNormaI) which allows
+us to configure many more
+options, including this alternate-
+row shading.
+Have look at the options which are
+avaitable in Word Table Styles -
+you can control almost anything
+you want in this way. {Launch)
+Barbera Allen-Jones - Test
+Manager
+Edward Alberts - Technical
+Architect
+81 Responsible for the
+acceptance testing of the
+solution which is provided
+by the supplier of the
+GetLost software, and for
+running the User
+Acceptance Test.
+The project technical
+architect is responsible to
+the Project Manager for
+the production of the High
+Level Design, and the
+production of the
+Statement of Requirements
+which will be sent to
+suppliers of the GetLost
+technical solution.(eaDocXl
+document excellence
+1.3 Competitor kinalysis
+1.3.1 competitor : BlueHorizons.eoml (c) eaDocX Ltd 2012
+Author of this anal sis
+Overview: ast updated on
+23/04/2012
+A new entrant into the journey aggregation business, BtueHorizons have quickty become an
+innovator in this business. Wetl financed, but still quite small, they will need to be watched carefully
+to see what new products they create whilst GetLost is under development.
+1.3.2 competitor : GreenHolidays
+Author of this anal sis
+Overview: ast updated on
+23/04/120121
+Established in 2005, GreenHotidays are the market leader in this field, with 250,000 regutar
+customers and a dominant position. These are the main competitors to GetLost.
+custom GreenHcIidays Revenue (USD M)
+12
+10
+8
+4 2009
+Figure 2 : ÉreenHotidaysl
+91 2010, 2012 2013 Comment [117]: [n this EA
+Package, there are some
+elements.
+We used these to capture some
+information about competitors,
+and stereotyping 'Actor' seemed a
+sensible way to do it.
+As we have quite a tot to say
+about competitors, we have
+chosen to print information about
+them as intine paragraphs, rather
+than as rows in the table.
+Comment [118]: This gives
+each its own
+heading. We've also chosen to
+print the stereotype of the
+etement in the heading, just to
+remind us that we're looking at
+competitor information. This is
+configurable.
+Comment [119]: Although
+each element has its own heading,
+we can still use littte tabtes of
+attributes. These tables always
+have just one row of data, and a
+heading, as they are showing just
+information from a single element.
+This is useful where we want to
+show lots of attributes of the
+etements, each of which has just a
+small amount of data.
+These can also use a Word Table
+Style. We have chosen one which
+looks like the one we used above,
+with the same shading on the
+header row.
+Comment [120]: This is
+another reason to print
+as inline
+paragraphs - we can configure
+them to always print any diagrams
+which are children of the element.
+eaDocX adds the Fgure number
+(the word' figure' is configurable)
+so you can print a Table of Figures,
+just like a normal Word document.(eaDocXl
+document excellence
+1.3.3 competitor : WhyGoAnywhereElse.co.uk (c) eaDocX Ltd 2012
+Author of this anal sis
+tan
+Overview: ast updated on
+22/04/2012
+This is a UK-based company, who are part of a much larger parent company who are a more
+traditional travel vendor. They were created in 2008 as the advanced-technology division of the
+parent company, but have yet to make an impact in the world-wide market - they are the leader in
+the UK. Comment [121]: Another
+section. The names of sections can
+be changed, to remind us what
+should be printed there, but as
+they are invisibte in the final
+document, sometimes we just
+keep the default names.
+101(eaDocXl
+document excellence
+2 Initial [Requirements
+Ill (c) eaDocX Ltd 2012 Comment [122]: Sometimes
+having two Word headings, both
+of which throw a page break,
+causes btank pages - but that's
+always been a challenge for
+writers of Word documents.
+If this EA Package had some notes,
+then they would print here.
+[n our models, we have a standard
+that ALL packages ALWAYS have
+some notes, even if it just says
+•these are the initial
+requirements'. [t makes the
+document more readable, but
+more important, it makes the
+MODEt_ more readable, which is
+important. 30th for you, later on
+in the project when you have
+forgotten where the information
+came from, or for other model
+users.(eaDocXl
+document excellence
+2.1 Board (High Level) Requirements (c) eaDocX Ltd 2012
+These requirements are the summary of a board meeting on 11/10/2011, and should be taken as the
+initial set of requirements for the project.
+Name
+Providers
+Options
+KPts
+Payments
+Quotes
+Risks "GetLostI' will aggregate services from many
+providers: airlines, hotel booking agencies and hotel
+chains, coach and train companies
+The service shall attow customers to input their
+source and destination location, and the service shall
+provide them with travel options, with prices & times
+for each. E.g. "Bath" to "London centre" would give
+the customer the train, coach, hire-car options
+Conversion of quotes into bookings is a key
+performance indicator for the system, and must be
+tracked each day/week/month
+Customers shall register their personal details and a
+payment method on the site before a booking can be
+made.
+The Customer shall be able to get a quote, which, if
+they are registered, which may be stored in the
+system, for future use, but only if they are registered. Comment [123]: This is a table
+of
+Every stereotype of every element
+type can have different
+formatting.
+This makes stereotypes really
+important, but that's just good
+modelling style anyway.
+We don't HAVE to make each
+stereotype format differently - we
+coutd just create a default one for
+all 'Requirement' elements, which
+wilt get used for any stereotype
+which doesn't have formatting of
+its own.
+Comment [124]: We're quite
+keen on using the EA 'Auto-
+Counters' feature to create unique
+IDs for most elements, and we put
+those into each element's 'Alias'
+attribute.
+This is just how we have chosen to
+construct our model 2.1.1
+GL-03
+GL-04 Payment reconciliation
+Providers commercial deals Ris Description
+TBD
+There is a risk that the reconciliation mechanism will
+require additional work (not included in
+scopirWestimates). This witl result in additional
+costs and schedule delivery impact.
+There is a risk that deals cannot be negotiated with
+providers
+121(eaDocXl
+document excellence
+2.2 Detailed Requirements (c) eaDocX Ltd 2012
+22.1
+REQ005
+REQ004
+REQ003
+22.2
+REQOOO
+REQOOI
+REQ002
+22.3
+REQ014
+REQ015 Definitions
+Name
+Enquiry
+Quote
+Booking Descri tion
+An enquiry uses data that the TravetOptimizer has gathered
+tromlsuppliers, but which is non-binding. Suppliers provide this
+data free
+A Quote involves the system communicating with the supplier
+to obtain a real-time value of the price of the ravel, hotel, flight
+etc
+A Booking is where a quote is made into a firm purchase of
+servtces
+Signing-up new suppliers Comment [125]: These are
+tabtes of 'Requirement' elements.
+eaDocX makes the columns all the
+same width, and uses all the same
+formatting for each table.
+Choosing the width of cotumns is a
+matter of trial-and-error:
+experiment with what looks good
+for your data.
+Sign-up
+Role of TBML
+Non-TBML
+suppliers Descri tion
+There will need to be a process for signing-up new suppliers.
+Suppliers systems should atl conform with the TBML (Travel
+Booking & quotes Markup Language) standard, otherwise we
+will have to produce bespoke interface code for each supplier.
+All TBML-comptiant suppliers get paid via the TBMLCo.
+Payment Settlement System (PSS), where consumer
+companies (like GetLost ) pay Suppliers once a month, via a
+single payment to TBMlCo. which in turn distributes those
+funds to suppliers.
+Senior Manager approval shall be required in order to sign-up
+a non-TBML supplier, who must have obtained a firm quote for
+the creation of the interface software from our out-sourced
+software providers (IBM), plus approval from our IT & testing
+managers
+Enquiries, Quotes and Bookings
+Cancelling bookings
+Ticketless suppliers
+2.2.3.1 Quotes
+e Re Name
+REQ016 Breaking-up Quotes Descri tion
+Under some circumstances, a booking may be cancelled,
+though different suppliers have different rules and fees for
+Wherever possible, Getlost? witl use ticketless suppliers, but
+this may not always be possible.
+Descri non
+Requests for quotes get broken-up into separate request for
+journey 'Steps', which may be sent to many different suppliers.
+REQ006 Customer experience A Customer shall be able to tell the system their travel
+requirements e.g. time & date, start & end points, restrictions
+& preferences, then the system will give recommended travel
+131(eaDocXl
+document excellence
+e Re Name
+REQ007 Pre-stored locations
+REQ008 Storing quotes
+REQ009 Retrieve previous
+quotes
+REQOIO Convert a quote into
+a booking
+REQOII Attowed Payment
+methods
+REQ012 Reporting
+REQ013 Customer
+preferences
+141 (c) eaDocX Ltd 2012
+Descra non
+options.
+There shall be a be a set of start & end locations pre-stored
+e.g. "London - Trafatgar Square" , plus the customer shall be
+able to store their own locations.
+Customer may then store those journeys as a quote
+Customer shall be able to login and retrieve previous quotes
+Customer shall be able to convert a quote into a booking
+The solution shall accept only credit or debit card payment
+methods
+We need reports on: revenue by supplier, - conversion rates
+per day/week/month, segmented by customer type,
+commission rates per hour/day/week/month, by customer
+segment and supplier. Other reports to be determined
+Customer shall be able to save their preferences e.g. for a
+particular airline or hotel chain or model of transport.(eaDocXl
+document excellence
+15 (c) eaDocX Ltd 2012(eaDocXl
+document excellence
+3 Use Case Model
+These are the required use cases for GetLost.
+Register
+(ucoq
+Get Quote
+Make (Iss034)
+caé,
+Figure 3 : Use Cases tuc08}
+stablish n
+Check n
+{ucog;
+Pey TBMLCO.
+Esäblish non-TBML (c) eaDocX Ltd 2012
+oss056)
+T BMLCD_(eaDocXl
+document excellence
+3.1 Actors (c) eaDocX Ltd 2012
+ctor
+TBMLCo.
+Manager
+Browser
+Customer
+Payment
+Service System
+Supplier
+171 Descri tion Uses use Case
+Pay TBMLCo.
+Éstabtish non-TBMI supplied
+Search for Travel
+An anonymous person, just
+browsing around the net.
+We think it is important to
+support these users, as if they
+have a good experience as
+browser, they may decide to go
+further and register. However,
+we don't want to be TOO nice to
+A Browser becomes a Customer Make Booking,
+at the point where they Register. Register,
+Get Quote
+This is the only means by which a Collect money from client
+customer can make a payment
+to GetLost, via the Singte
+Payment Service System. Who
+that supplier will be witl be
+determined later in the project,
+once detailed requirements are
+known. Comment [126]: These
+attributes come from relationships
+which we have created in EA
+between Actors and Use Cases.
+Because the Use Cases are also
+printed in this document, the
+attributes are created as
+hyperlinks.
+This allows readers to 'browse'
+your document, just as they would
+a website, by following links
+around the document, rather than
+reading it from start to finish.
+Comment [127]: Another
+internal cross-reference, from
+within EA.(eaDocXl
+document excellence
+3.2 Use Cases
+32.1 Customer use cases
+3.2.1.1 UseCase : Get Quote
+Description: (c) eaDocX Ltd 2012
+Allows a user to get a quote for a journey, either a new one, or one previously stored. The quote has
+indicative, not contractual, prices for all Steps of the Journey.
+3.2.1.1.1 Scenarios
+3.2.1.1.1.1 Basic Path : Getouoce{
+use Case starts when the user decides they want a quote.
+1 This might be a Browser or Customer. Retrieves previously
+2 user enters the details for the quote (details TBD) stored quote
+System breaks the quote into individual Journey Steps and 'Invatid Quote
+3 asks Supplier systems to create quotes for each Step reques
+System creates a consolidated Quote from the individual
+4 Steps, and shows that to the user.
+1
+2
+3 3.2.1.1.1.2 Alternate : Retrieves previously stored quote
+User may ask system for a list of previously
+stored quotes
+System shows user the lists of quotes
+User chooses one.
+Rejoins at: Get Quote step:31
+3.2.1.1.1.3 Exception : Invalid Quote request
+System indicates to the user what information
+1 is required
+Design Note: good Ul design should prevent a
+2 badly-formed quote from being submitted in
+the first itacel
+181 Comment [128]: This is how
+eaDocX can print EA Structured
+Scenarios.
+Each scenario is a separate tabte
+of steps (we could have printed
+them as separate paragraphs, but
+we thought a table looked neater)
+Comment [129]: Where the
+scenario has alternates and
+exceptions, eaDocX automatically
+creates hyperlinks to those.
+This means your EA model can use
+the full power of EA Structured
+Scenarios, and the document can
+show alt the [inks which you
+created.
+Comment [130]: [f your
+Structured Scenario specifies
+where the Alternate path rejoins
+the main path, that also becomes
+a hyperlink.
+Comment [131]: Note that
+exceptions - according to the UML
+definition - don't rejoin the basic
+path. That would make them
+alternates.
+So, Exception paths don't print a
+'reioins' attribute(eaDocXl
+document excellence
+3.2.1.2 UseCase : Register
+3.2.1.3 UseCase : Make Booking
+32.2 Administration use cases (c) eaDocX Ltd 2012 Comment [132]: These are a
+bunch of Use Cases which we
+haven't written yet 3.2.2.1
+3.2.2.2
+3.2.2.3
+3.2.2.4
+3.2.2.5
+3.2.2.6
+191 • Check new Supplie/
+UseCase .
+UseCase . • Collect money from client
+UseCase : Establish new Supplier
+UseCase : Establish non-TBML supplier
+UseCase . • Pay TBMLCo.
+UseCase : Search for Travel(eaDocXl
+document excellence
+3.3 [Issues
+ssue Re
+201 ssue
+Cash collections process
+Domain expert needed (c) eaDocX Ltd 2012
+Descri tion
+We seem to be missing a whole set of processes
+for the collection of un-paid invoices to Suppliers
+Who is the domain expert for this system?
+Nobody yet identified Comment [133]: We like to
+keep Issues within our EA models,
+and link them to the EA elements
+(Requirements, use Cases,
+Components) to which they refer.
+This means we don't have to keep
+spreadsheets of issues external to
+EA.
+No business owner for these use These use cases have no Business Owner, hence
+cases no Actor
